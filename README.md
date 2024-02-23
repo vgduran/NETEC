@@ -34,3 +34,5 @@
 
 ## Servidor de configuración Spring Cloud Config
 - Creación del repositorio y servidor de configuración
+
+![Texto alternativo](URL_de_la_imagen)
